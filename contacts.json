@@ -1,41 +1,37 @@
 [
     {
-        "contactId": 1,
-        "name": {"first": "Radley", "last": "Crowne"},
-        "city": "Big City",
+        "firstName": "Radley",
+        "lastName": "Crowne",
         "email": "radley.crowne@bluefalcon.com",
-        "phone": "258-332-5266"
+        "favoriteColor": "Blue",
+        "birthday": "1997-09-10"
     },
-
     {
-        "contactId": 2,
-        "name": {"first": "Charles", "last": "Brown"},
-        "city": "Minneapolis",
+        "firstName": "Charles",
+        "lastName": "Brown",
         "email": "charlie.brown@peanuts.com",
-        "phone": "426-563-2665"
+        "favoriteColor": "Yellow",
+        "birthday": "1950-10-02"
     },
-
     {
-        "contactId": 3,
-        "name": {"first": "Emily", "last": "Elizabeth"},
-        "city": "Birdwell Island",
+        "firstName": "Emily",
+        "lastName": "Elizabeth",
         "email": "e.elizabeth@bigred.com",
-        "phone": "484-373-3364"
+        "favoriteColor": "Pink",
+        "birthday": "2000-09-04"
     },
-
     {
-        "contactId": 4,
-        "name": {"first": "George", "last": "Jetson"},
-        "city": "Orbit City",
+        "firstName": "George",
+        "lastName": "Jetson",
         "email": "george@spacelysprokets.net",
-        "phone": "526-353-8766"
+        "favoriteColor": "Blue",
+        "birthday": "1962-09-23"
     },
-    
     {
-        "contactId": 5,
-        "name": {"first": "Jonny", "last": "Quest"},
-        "city": "Florida Keys",
+        "firstName": "Jonny",
+        "lastName": "Quest",
         "email": "jonny@questlabs.org",
-        "phone": "566-697-8378"
+        "favoriteColor": "Black",
+        "birthday": "1964-09-18"
     }
 ]
