@@ -1,0 +1,13 @@
+//LOCALHOST
+### Get all contacts
+http://localhost:3000/contacts
+
+### Get a single contact
+http://localhost:3000/contacts/6504f1a8fa72d2051339b44e
+
+// Production
+### Get all Contacts
+https://project-1-contacts.onrender.com/contacts
+
+### Get a single contact
+https://project-1-contacts.onrender.com/contacts/6504f1a8fa72d2051339b44d
